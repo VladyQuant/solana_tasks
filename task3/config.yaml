@@ -1,0 +1,5 @@
+rpc_url: https://api.devnet.solana.com
+geyser_url: https://grpc.ny.shyft.to
+geyser_token: 881e801b-7dc1-4b3e-b5c7-bccd41552961
+sender_private_key: [108, 130, 99, 91, 138, 94, 161, 188, 109, 172, 146, 108, 188, 46, 129, 57, 244, 74, 83, 84, 49, 220, 93, 12, 174, 242, 86, 238, 9, 164, 212, 84, 27, 67, 59, 29, 172, 25, 58, 105, 64, 45, 58, 175, 93, 34, 211, 73, 115, 233, 91, 50, 35, 253, 140, 40, 74, 54, 22, 235, 13, 32, 14, 81]
+recepient_pyblic_key: 3PxJdvcG32nnRNyeteynHRxy7oTLpK9NFvobmofPoCQ4

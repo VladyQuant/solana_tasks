@@ -1,0 +1,12 @@
+[package]
+name = "Task2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = {version = "1.42.0", features = ["full"]}
+futures = "0.3.31"
+serde = {version = "1.0.217", features = ["derive"]}
+serde_yaml = "0.9.34"
+solana-client = "2.1.7"
+solana-sdk = "2.1.7"
